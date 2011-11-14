@@ -27,7 +27,7 @@
 
 		<mainClass>${webstartMain}</mainClass>
 
-		<jnlp.applet.mainClass>com.gemserk.games.vampirerunner.Applet</jnlp.applet.mainClass>
+		<jnlp.applet.mainClass>com.googlecode.nativedependencies.example.App</jnlp.applet.mainClass>
 
 		<natives>${basedir}/target/natives/</natives>
 
