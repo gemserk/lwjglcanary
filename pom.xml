@@ -147,7 +147,7 @@
 							<gzip>true</gzip>
 
 							<jnlp>
-								<j2seVersion>${compiler.version}+</j2seVersion>
+								<j2seVersion>1.6+</j2seVersion>
 								<inputTemplateResourcePath>${project.basedir}/src/main/jnlp</inputTemplateResourcePath>
 								<inputTemplate>jnlptemplate.vm</inputTemplate>
 								<outputFile>launch.jnlp</outputFile>
