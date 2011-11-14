@@ -6,7 +6,7 @@
 	<artifactId>example</artifactId>
 	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>example</name>
+	<name>LWJGL Canary Build</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
@@ -46,7 +46,7 @@
 	<repositories>
 		<repository>
 			<id>supersecretstagingrepo</id>
-			<url>https://oss.sonatype.org/content/repositories/orglwjgl-367/</url>
+			<url>https://oss.sonatype.org/content/repositories/orglwjgl-361/</url>
 		</repository>
 	</repositories>
 
