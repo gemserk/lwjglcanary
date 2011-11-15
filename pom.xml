@@ -47,15 +47,6 @@
 		<gemserk.keystore.gen>true</gemserk.keystore.gen>
 	</properties>
 
-
-	<repositories>
-		<repository>
-			<id>supersecretstagingrepo</id>
-			<url>https://oss.sonatype.org/content/repositories/orglwjgl-361/</url>
-		</repository>
-	</repositories>
-
-
 	<build>
 		<plugins>
 			<plugin>
